@@ -1,0 +1,8 @@
+Makefile Build: make task0
+Run Command: ./task0
+
+Please remake the task files using makefile. I included the premade ones just in case.
+
+Each task adds on to the next one. With task 5 being the most complete.
+
+Run pipes with command: ls -i | tr a-z A-Z
